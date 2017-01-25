@@ -63,3 +63,8 @@ ef margir eu að vinna að sama verkefni.
 
 9.	Hver fann upp GIT?
  Linus Torvalds
+
+
+
+10.	Hvar er GIT helst notað?
+við forritunar verkefni

@@ -57,3 +57,6 @@ fer eftir hversu mörg dæmi það eru býst ég við  í augnablikinu myndi ég gera það
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 It’s basically a loading dock where you get to determine what changes get shipped away.
+
+8.	Hvenær er sniðugt að nota greinar (branches)?
+ef margir eu að vinna að sama verkefni. 

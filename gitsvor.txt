@@ -53,3 +53,7 @@ management of changes to documents,auðvelt ,þæginlegt.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 fer eftir hversu mörg dæmi það eru býst ég við  í augnablikinu myndi ég gera það eftir hver dæmi.
+
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+It’s basically a loading dock where you get to determine what changes get shipped away.

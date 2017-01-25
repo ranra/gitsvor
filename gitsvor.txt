@@ -6,3 +6,25 @@ git spurningar og svör
 	ls list 
 	pwd  sjá staðsetningu
 	mkdir make directory
+
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+Makes a Git repository copy from a remote source.
+ Also adds the original location as a remote so you can 
+fetch from it again and push to it if you have permissions. 
+
+
+	git log
+Shows a listing of commits on a branch including the corresponding details. 
+
+
+	git status
+Shows you the status of files in the index versus the working directory
+
+
+	git diff
+Generates patch files or statistics of differences between paths
+
+	git checkout
+Checks out a different branch – switches branches by updating the index,

@@ -42,3 +42,11 @@ Not a git repository
 To compare two paths outside a working tree:
 usage: git diff [--no-index] <path> <path>
 c) git diff commit1 commit2:
+
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+the management of changes to documents, 
+
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+management of changes to documents,auðvelt ,þæginlegt.

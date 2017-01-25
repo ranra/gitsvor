@@ -60,3 +60,6 @@ It’s basically a loading dock where you get to determine what changes get shippe
 
 8.	Hvenær er sniðugt að nota greinar (branches)?
 ef margir eu að vinna að sama verkefni. 
+
+9.	Hver fann upp GIT?
+ Linus Torvalds

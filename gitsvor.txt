@@ -1,0 +1,8 @@
+git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd  change directory
+	cd ~  fara í rót
+	ls list 
+	pwd  sjá staðsetningu
+	mkdir make directory

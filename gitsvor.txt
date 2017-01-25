@@ -28,3 +28,17 @@ Generates patch files or statistics of differences between paths
 
 	git checkout
 Checks out a different branch – switches branches by updating the index,
+
+
+
+
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff : 
+git-diff - Show changes between commits, commit and working tree, etc
+	
+b) git diff --staged :
+Not a git repository
+To compare two paths outside a working tree:
+usage: git diff [--no-index] <path> <path>
+c) git diff commit1 commit2:
